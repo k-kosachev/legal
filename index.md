@@ -3,7 +3,7 @@ layout: default
 title: LangGPT
 ---
 
-# LangGPT
+# NextTongue – Speak Through Roleplay
 
-- [Privacy Policy](/privacy)
-- [Terms of Use](/terms)
+- [Privacy Policy](/legal/privacy)
+- [Terms of Use](/legal/terms)

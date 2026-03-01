@@ -7,7 +7,7 @@ title: Privacy Policy
 
 **Last Updated: March 1, 2026**
 
-This Privacy Policy describes how LangGPT ("we", "our", or "the App") collects, uses, and protects your information when you use our mobile application.
+This Privacy Policy describes how NextTongue ("we", "our", or "the App") collects, uses, and protects your information when you use our mobile application.
 
 ## 1. Information We Collect
 
@@ -23,7 +23,7 @@ This Privacy Policy describes how LangGPT ("we", "our", or "the App") collects, 
 
 - **Anonymous User Identifier:** We use Supabase anonymous authentication to create a random identifier for your session. No email or password is required.
 - **Usage Analytics:** We collect anonymized usage events (e.g., features used, session duration, message count) through Mixpanel. These events are associated with your anonymous identifier, not your real identity. Analytics data is sent to Mixpanel's EU servers.
-- **Subscription Status:** If you subscribe to LangGPT Pro, your subscription status is managed by RevenueCat and the respective app store (Apple App Store or Google Play Store).
+- **Subscription Status:** If you subscribe to NextTongue Pro, your subscription status is managed by RevenueCat and the respective app store (Apple App Store or Google Play Store).
 
 ### 1.3 Information We Do NOT Collect
 
@@ -106,4 +106,4 @@ If you have questions about this Privacy Policy or wish to exercise your data ri
 
 ---
 
-*This privacy policy applies to the LangGPT mobile application available on iOS and Android.*
+*This privacy policy applies to the NextTongue mobile application available on iOS and Android.*

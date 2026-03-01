@@ -7,11 +7,11 @@ title: Terms of Use
 
 **Last Updated: March 1, 2026**
 
-Please read these Terms of Use ("Terms") carefully before using the LangGPT mobile application ("the App"). By using the App, you agree to be bound by these Terms.
+Please read these Terms of Use ("Terms") carefully before using the NextTongue mobile application ("the App"). By using the App, you agree to be bound by these Terms.
 
 ## 1. Description of Service
 
-LangGPT is an AI-powered language learning application that provides:
+NextTongue is an AI-powered language learning application that provides:
 
 - Interactive roleplay conversations with AI characters
 - Grammar checking and correction
@@ -24,7 +24,7 @@ The App uses artificial intelligence (including OpenAI and Deepgram) to generate
 
 ## 2. Acceptance of Terms
 
-By downloading, installing, or using the App, you agree to these Terms and our [Privacy Policy](/privacy). If you do not agree, do not use the App.
+By downloading, installing, or using the App, you agree to these Terms and our [Privacy Policy](/legal/privacy). If you do not agree, do not use the App.
 
 ## 3. Eligibility
 
@@ -38,7 +38,7 @@ The App uses anonymous authentication. No email or password is required. Your le
 
 ### 5.1 Free and Pro Tiers
 
-The App offers both free and paid (LangGPT Pro) features. The specific features available in each tier may change over time.
+The App offers both free and paid (NextTongue Pro) features. The specific features available in each tier may change over time.
 
 ### 5.2 Payment Processing
 
@@ -99,7 +99,7 @@ Custom roleplay scenarios you create are stored locally on your device and are n
 
 ## 10. Privacy
 
-Your use of the App is also governed by our [Privacy Policy](/privacy), which describes how we collect, use, and protect your information. By using the App, you consent to the practices described in our Privacy Policy.
+Your use of the App is also governed by our [Privacy Policy](/legal/privacy), which describes how we collect, use, and protect your information. By using the App, you consent to the practices described in our Privacy Policy.
 
 ## 11. Disclaimer of Warranties
 
@@ -160,4 +160,4 @@ If you have questions about these Terms, please contact us at:
 
 ---
 
-*These terms apply to the LangGPT mobile application available on iOS and Android.*
+*These terms apply to the NextTongue mobile application available on iOS and Android.*
