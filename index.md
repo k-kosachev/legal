@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LangGPT
+title: NextTongue
 ---
 
 # NextTongue – Speak Through Roleplay
